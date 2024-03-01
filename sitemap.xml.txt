@@ -1,7 +1,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://ngbusiness.github.io/Eduford/index.html</loc>
-<lastmod>2023-11-30</lastmod>
+<loc>https://ngbusiness.github.io/portfolio-NG/index.html</loc>
+<lastmod>2024-02-28</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
