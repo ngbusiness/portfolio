@@ -1,6 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://ngbusiness.github.io/portfolio-NG/index.html</loc>
+<loc>https://ngbusiness.github.io/portfolio/index.html</loc>
 <lastmod>2024-02-28</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
